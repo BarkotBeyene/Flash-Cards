@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Flashcard Walkthrough' width='' alt='Flashcard Walkthrough' />
+<img src='https://i.imgur.com/a4jEE8E.gif' title='Flashcard Walkthrough' width='' alt='Flashcard Walkthrough' />
 
 
 GIF created with LiceCap 
